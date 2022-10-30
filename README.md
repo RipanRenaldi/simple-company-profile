@@ -1,1 +1,2 @@
-# ripanrenaldi.github.io
+# Simple Company Profile
+
